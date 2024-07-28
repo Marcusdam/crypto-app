@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/crypto-app/static/css/main.dfcc0d7b.css",
+    "main.js": "/crypto-app/static/js/main.12962d9e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/crypto-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/candy.svg": "/crypto-app/static/media/candy.f6f2637d8e557e272d53d6014717e678.svg",
+    "static/media/AdImage.png": "/crypto-app/static/media/AdImage.24fec238871872ae6be6.png",
+    "index.html": "/crypto-app/index.html",
+    "static/media/icon-close.svg": "/crypto-app/static/media/icon-close.c2e36e0469b3b1e6c27328356ce18aed.svg",
+    "static/media/icon-hamburger.svg": "/crypto-app/static/media/icon-hamburger.b0d311feac968ee5feab7333de091d7f.svg",
+    "main.dfcc0d7b.css.map": "/crypto-app/static/css/main.dfcc0d7b.css.map",
+    "main.12962d9e.js.map": "/crypto-app/static/js/main.12962d9e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/crypto-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfcc0d7b.css",
+    "static/js/main.12962d9e.js"
+  ]
+}
